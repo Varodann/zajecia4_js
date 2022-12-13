@@ -1,0 +1,107 @@
+.topic{
+    display: flex;
+    justify-content: center;
+}
+
+.main_ui{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#cookie_summary{
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.left_side_of_page{
+    display: flex;
+    flex-direction: column;
+}
+
+.cookie_object {
+}
+
+#cookie_button{
+    height: 150px;
+    width: 150px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#cookie_button{
+margin-left: 70px;
+}
+
+.summary {
+    height: 90px;
+    width: 250px;
+    border: 2px solid black;
+    background-color: #d4cdcd;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.right_side_of_page{
+    border-left: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
+
+.discription_of_level{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.discription_lv1{
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.discription_lv2{
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.discription_lv3{
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.discription_lv4{
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.discription_lv5{
+    padding-left: 40px;
+}
+
+.first_upgrade{
+    margin-bottom: 10px;
+}
+
+.second_upgrade{
+    margin-bottom: 10px;
+}
+
+.third_upgrade{
+    margin-bottom: 10px;
+}
+
+.fourth_upgrade{
+    margin-bottom: 10px;
+}
+
+.fifth_upgrade{
+    margin-bottom: 10px;
+}
