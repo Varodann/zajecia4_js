@@ -1,0 +1,23 @@
+{
+  "name": "zaj4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Varodann/zajecia4_js.git"
+  },
+  "author": "Kacper Filipiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Varodann/zajecia4_js/issues"
+  },
+  "homepage": "https://github.com/Varodann/zajecia4_js#readme",
+  "devDependencies": {
+    "parcel": "^2.8.1"
+  }
+}
